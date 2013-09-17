@@ -1,0 +1,367 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1694" measuredH="741" mockupW="1552" mockupH="721">
+  <controls>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::TextInput" x="220" y="89" w="615" h="-1" measuredW="387" measuredH="30" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Step%201%3A%20Browse%20available%20users%20by%20topic%20and%20location</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="996" y="89" w="325" h="-1" measuredW="371" measuredH="30" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Step%202%20%3A%20Select%20Users%20who%20are%20available%20presently</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::TextInput" x="1373" y="89" w="306" h="-1" measuredW="256" measuredH="30" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Step%203%20%3A%20Chat%20with%20available%20users</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Arrow" x="439" y="409" w="125" h="10" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::iPhone" x="574" y="168" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::ComboBox" x="704" y="371" w="-1" h="-1" measuredW="95" measuredH="93" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Categories%0AAOL%20courses%0ASpritual%0AMeditation%0AScience</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::ComboBox" x="609" y="371" w="89" h="-1" measuredW="59" measuredH="78" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tags%0ASeva%0ASatsang%0ASadhana</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::TextInput" x="713" y="269" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sort%20Results%20By</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::TextInput" x="609" y="338" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter%20Results%20By</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="667" y="592" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::ButtonBar" x="600" y="302" w="-1" h="-1" measuredW="230" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Best%20Match%2CDistance%2CRating</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::PointyButton" x="609" y="269" w="66" h="-1" measuredW="48" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <direction>left</direction>
+        <text>back</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::iPhone" x="142" y="168" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::SearchBox" x="208" y="268" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kriya</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Button" x="331" y="267" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Map" x="171" y="303" w="224" h="316" measuredW="252" measuredH="222" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Component" x="169" y="619" w="39" h="35" measuredW="39" measuredH="35" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="5" y="11" w="29" h="22"/>
+        <override controlID="2" x="0" y="1" w="39" h="12"/>
+        <override controlID="7" x="26" y="0" w="7" h="8"/>
+        <override controlID="8" x="13" y="17" w="7" h="9"/>
+        <override controlID="10" x="19" y="17" w="7" h="9"/>
+        <override controlID="11" x="0" y="29" w="39" h="6"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Home</src>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="234" y="623" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Component" x="600" y="619" w="39" h="35" measuredW="39" measuredH="35" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="5" y="11" w="29" h="22"/>
+        <override controlID="2" x="0" y="1" w="39" h="12"/>
+        <override controlID="7" x="26" y="0" w="7" h="8"/>
+        <override controlID="8" x="13" y="17" w="7" h="9"/>
+        <override controlID="10" x="19" y="17" w="7" h="9"/>
+        <override controlID="11" x="0" y="29" w="39" h="6"/>
+        <override controlID="-1"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Home</src>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Arrow" x="871" y="409" w="125" h="10" measuredW="150" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Arrow" x="1310" y="409" w="98" h="10" measuredW="150" measuredH="100" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Component" x="1471" y="513" w="38" h="51" measuredW="38" measuredH="51" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Location</src>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Component" x="1445" y="470" w="16" h="16" measuredW="16" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPad%20Controls.bmml#iPad%20Location</src>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::iPhone" x="1412" y="168" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="1502" y="293" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discussion%20owner%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Component" x="1439" y="620" w="39" h="35" measuredW="39" measuredH="35" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="5" y="11" w="29" h="22"/>
+        <override controlID="2" x="0" y="1" w="39" h="12"/>
+        <override controlID="7" x="26" y="0" w="7" h="8"/>
+        <override controlID="8" x="13" y="17" w="7" h="9"/>
+        <override controlID="10" x="19" y="17" w="7" h="9"/>
+        <override controlID="11" x="0" y="29" w="39" h="6"/>
+        <override controlID="-1"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Home</src>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Title" x="835" y="20" w="-1" h="-1" measuredW="419" measuredH="43" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browse%20Available%20Users</text>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::IconLabel" x="349" y="627" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <icon>UsersIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::iPhone" x="1028" y="166" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::Button" x="1069" y="310" w="194" h="27" measuredW="139" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Users%20Available%20now</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::Component" x="1081" y="375" w="48" h="48" measuredW="48" measuredH="48" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-sm-focused</src>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Component" x="1081" y="444" w="48" h="48" measuredW="48" measuredH="48" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-sm-focused</src>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::Component" x="1081" y="507" w="48" h="48" measuredW="48" measuredH="48" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-sm-focused</src>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::Component" x="1081" y="570" w="48" h="48" measuredW="48" measuredH="48" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-sm-focused</src>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::TextInput" x="1139" y="375" w="41" h="-1" measuredW="41" measuredH="24" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::TextInput" x="1195" y="375" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::TextInput" x="1139" y="441" w="41" h="-1" measuredW="41" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::TextInput" x="1195" y="441" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::TextInput" x="1139" y="507" w="41" h="-1" measuredW="41" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::TextInput" x="1188" y="507" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::TextInput" x="1139" y="570" w="41" h="-1" measuredW="41" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::TextInput" x="1195" y="570" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="229" controlTypeID="com.balsamiq.mockups::IconLabel" x="1129" y="627" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <icon>UsersIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="230" controlTypeID="com.balsamiq.mockups::Component" x="1058" y="624" w="39" h="35" measuredW="39" measuredH="35" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="5" y="11" w="29" h="22"/>
+        <override controlID="2" x="0" y="1" w="39" h="12"/>
+        <override controlID="7" x="26" y="0" w="7" h="8"/>
+        <override controlID="8" x="13" y="17" w="7" h="9"/>
+        <override controlID="10" x="19" y="17" w="7" h="9"/>
+        <override controlID="11" x="0" y="29" w="39" h="6"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Home</src>
+      </controlProperties>
+    </control>
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::Component" x="1189" y="627" w="28" h="28" measuredW="28" measuredH="28" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="28" h="28"/>
+        <override controlID="1" x="9" y="2" w="10" h="8"/>
+        <override controlID="2" x="1" y="9" w="7" h="10"/>
+        <override controlID="3" x="10" y="19" w="10" h="8"/>
+        <override controlID="4" x="20" y="9" w="7" h="10"/>
+        <override controlID="-1"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Mapping</src>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::Button" x="1211" y="276" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::Component" x="1478" y="345" w="180" h="38" measuredW="180" measuredH="38" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="180" h="38">
+          <text/>
+        </override>
+        <override controlID="-1">
+          <markup>true</markup>
+        </override>
+        <src>./assets/Common%20Controls%20v2.bmml#Text%20Field%20Focussed</src>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::Component" x="1509" y="345" w="143" h="40" measuredW="143" measuredH="40" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="143" h="40"/>
+        <src>./assets/Common%20Controls%20v2.bmml#Text%20Field</src>
+      </controlProperties>
+    </control>
+    <control controlID="246" controlTypeID="com.balsamiq.mockups::Component" x="1445" y="326" w="213" h="57" measuredW="213" measuredH="57" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+    <control controlID="248" controlTypeID="com.balsamiq.mockups::Component" x="1445" y="399" w="213" h="57" measuredW="213" measuredH="57" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <override controlID="-1"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+    <control controlID="249" controlTypeID="com.balsamiq.mockups::Component" x="1445" y="477" w="213" h="57" measuredW="213" measuredH="57" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <override controlID="-1"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+    <control controlID="250" controlTypeID="com.balsamiq.mockups::Component" x="171" y="267" w="31" h="27" measuredW="31" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="31" h="27"/>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-icon</src>
+      </controlProperties>
+    </control>
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::Component" x="1439" y="267" w="31" h="27" measuredW="31" measuredH="27" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="31" h="27"/>
+        <override controlID="-1"/>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-icon</src>
+      </controlProperties>
+    </control>
+    <control controlID="252" controlTypeID="com.balsamiq.mockups::Component" x="1058" y="267" w="31" h="27" measuredW="31" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="31" h="27"/>
+        <override controlID="-1"/>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-icon</src>
+      </controlProperties>
+    </control>
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::DateChooser" x="652" y="531" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="54" locked="false" isInGroup="-1"/>
+    <control controlID="254" controlTypeID="com.balsamiq.mockups::Label" x="652" y="495" w="82" h="-1" measuredW="65" measuredH="21" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20Date</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

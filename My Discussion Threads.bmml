@@ -1,0 +1,93 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1097" measuredH="695" mockupW="423" mockupH="669">
+  <controls>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="674" y="26" w="-1" h="-1" measuredW="423" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Discussion%20Threads</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::iPhone" x="761" y="122" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Component" x="786" y="576" w="39" h="35" measuredW="39" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="5" y="11" w="29" h="22"/>
+        <override controlID="2" x="0" y="1" w="39" h="12"/>
+        <override controlID="7" x="26" y="0" w="7" h="8"/>
+        <override controlID="8" x="13" y="17" w="7" h="9"/>
+        <override controlID="10" x="19" y="17" w="7" h="9"/>
+        <override controlID="11" x="0" y="29" w="39" h="6"/>
+        <src>./assets/Icons%20by%20Designyantra.bmml#Home</src>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="969" y="580" w="-1" h="-1" measuredW="32" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <icon>SearchIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::IconLabel" x="868" y="579" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <icon>UsersIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Component" x="792" y="225" w="31" h="22" measuredW="31" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-icon</src>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SearchBox" x="825" y="224" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Science</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Button" x="949" y="223" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Component" x="792" y="319" w="213" h="57" measuredW="213" measuredH="57" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <override controlID="-1"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Component" x="792" y="392" w="213" h="57" measuredW="213" measuredH="57" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Component" x="792" y="470" w="213" h="57" measuredW="213" measuredH="57" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="43" y="0" w="170" h="57"/>
+        <override controlID="1" x="43" y="1" w="169" h="56"/>
+        <override controlID="2" x="0" y="0" w="36" h="35"/>
+        <override controlID="3" x="1" y="1" w="34" h="34"/>
+        <override controlID="4" x="48" y="23" w="155" h="31"/>
+        <override controlID="5" x="49" y="2" w="59" h="21"/>
+        <override controlID="6" x="176" y="4" w="32" h="18"/>
+        <src>./assets/Common%20Controls.bmml#Comment%20Circle%20Avatar</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,134 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1258" measuredH="762" mockupW="693" mockupH="757">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="565" y="189" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="622" y="361" w="168" h="32" measuredW="168" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Common%20Controls.bmml#Facebook%20-%20Login</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="622" y="408" w="168" h="32" measuredW="168" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Common%20Controls%20v2.bmml#Twitter%20-%20Login</src>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::iPhone" x="976" y="189" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="1010" y="419" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Browse%20Available%20People%26bm%3BBrowse%20Available%20People.bmml%26bm%3BBrowse%20Available%20People.bmml%26bm%3BBrowse%20Available%20People.bmml%2CMy%20Discussion%20Threads%26bm%3BMy%20Discussion%20Threads.bmml%26bm%3BMy%20Discussion%20Threads.bmml%26bm%3BMy%20Discussion%20Threads.bmml%2CCreate%20Availability%26bm%3BCreate%20Availability.bmml%26bm%3BCreate%20Availability.bmml%26bm%3BCreate%20Availability.bmml%2CBrowse-users%26bm%3BBrowse-users.bmml%26bm%3BBrowse-users.bmml%26bm%3BBrowse-users.bmml%2CProfile%26bm%3BProfile.bmml%26bm%3BProfile.bmml%26bm%3BProfile.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C419%2C660%2C448%22%20href%3D%22Browse%2520Available%2520People.bmml%22%20alt%3D%22Browse%20Available%20People%22%20id%3D%22106%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C448%2C660%2C477%22%20href%3D%22My%2520Discussion%2520Threads.bmml%22%20alt%3D%22My%20Discussion%20Threads%22%20id%3D%22106%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C477%2C660%2C506%22%20href%3D%22Create%2520Availability.bmml%22%20alt%3D%22Create%20Availability%22%20id%3D%22106%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C506%2C660%2C535%22%20href%3D%22Browse-users.bmml%22%20alt%3D%22Browse-users%22%20id%3D%22106%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C535%2C660%2C564%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%22106%22/%3E%0A</map>
+        <text>Browse%20Available%20People%0AMy%20Discussion%20Threads%0ACreate%20Availability%0ABrowse%20users%0AProfile</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::TextInput" x="574" y="121" w="264" h="-1" measuredW="53" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::TextInput" x="985" y="121" w="264" h="-1" measuredW="92" measuredH="30" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Main%20Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::TextInput" x="668" y="545" w="90" h="-1" measuredW="46" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::TextInput" x="668" y="572" w="90" h="-1" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::TextArea" x="606" y="301" w="200" h="50" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Welcome</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Button" x="741" y="606" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="606" y="606" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::RoundButton" x="622" y="455" w="168" h="32" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>2848996</borderColor>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::RoundButton" x="623" y="456" w="166" h="30" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10470904</borderColor>
+        <color>10470904</color>
+        <shape>rectangle</shape>
+        <size>14</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="__group__" x="622" y="455" w="32" h="32" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="32" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="147">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <shape>rectangle</shape>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="1" y="1" w="30" h="30" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="147">
+          <controlProperties>
+            <borderColor>10470904</borderColor>
+            <color>10470904</color>
+            <shape>rectangle</shape>
+            <size>14</size>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Icon" x="630" y="463" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="662" y="461" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login%20with%20google</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::TextArea" x="622" y="508" w="164" h="30" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Or</text>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Title" x="758" y="63" w="-1" h="-1" measuredW="382" measuredH="43" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login%20and%20Main%20Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Title" x="838" y="5" w="-1" h="-1" measuredW="79" measuredH="43" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AOL</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
